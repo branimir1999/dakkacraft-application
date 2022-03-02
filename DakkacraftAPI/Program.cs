@@ -1,3 +1,4 @@
+using DakkacraftDAL;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
@@ -13,6 +14,7 @@ namespace DakkacraftAPI
     {
         public static void Main(string[] args)
         {
+            Init.run();
             CreateHostBuilder(args).Build().Run();
         }
 

@@ -1,0 +1,12 @@
+C:\Users\Ivic\Desktop\Various Programs\Dakkacraft Software\DakkacraftDAL\bin\Release\DakkacraftDAL.dll.config
+C:\Users\Ivic\Desktop\Various Programs\Dakkacraft Software\DakkacraftDAL\bin\Release\DakkacraftDAL.dll
+C:\Users\Ivic\Desktop\Various Programs\Dakkacraft Software\DakkacraftDAL\bin\Release\DakkacraftDAL.pdb
+C:\Users\Ivic\Desktop\Various Programs\Dakkacraft Software\DakkacraftDAL\bin\Release\EntityFramework.dll
+C:\Users\Ivic\Desktop\Various Programs\Dakkacraft Software\DakkacraftDAL\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Ivic\Desktop\Various Programs\Dakkacraft Software\DakkacraftDAL\bin\Release\EntityFramework.xml
+C:\Users\Ivic\Desktop\Various Programs\Dakkacraft Software\DakkacraftDAL\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Ivic\Desktop\Various Programs\Dakkacraft Software\DakkacraftDAL\obj\Release\DakkacraftDAL.csproj.AssemblyReference.cache
+C:\Users\Ivic\Desktop\Various Programs\Dakkacraft Software\DakkacraftDAL\obj\Release\DakkacraftDAL.csproj.CoreCompileInputs.cache
+C:\Users\Ivic\Desktop\Various Programs\Dakkacraft Software\DakkacraftDAL\obj\Release\DakkacraftDAL.csproj.CopyComplete
+C:\Users\Ivic\Desktop\Various Programs\Dakkacraft Software\DakkacraftDAL\obj\Release\DakkacraftDAL.dll
+C:\Users\Ivic\Desktop\Various Programs\Dakkacraft Software\DakkacraftDAL\obj\Release\DakkacraftDAL.pdb

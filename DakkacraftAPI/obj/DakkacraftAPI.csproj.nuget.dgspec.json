@@ -27,7 +27,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\Ivic\\Desktop\\Various Programs\\Dakkacraft Software\\DakkacraftDAL\\DakkacraftDAL.csproj": {
+                "projectPath": "C:\\Users\\Ivic\\Desktop\\Various Programs\\Dakkacraft Software\\DakkacraftDAL\\DakkacraftDAL.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -59,6 +63,21 @@
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
+      }
+    },
+    "C:\\Users\\Ivic\\Desktop\\Various Programs\\Dakkacraft Software\\DakkacraftDAL\\DakkacraftDAL.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ivic\\Desktop\\Various Programs\\Dakkacraft Software\\DakkacraftDAL\\DakkacraftDAL.csproj",
+        "projectName": "DakkacraftDAL",
+        "projectPath": "C:\\Users\\Ivic\\Desktop\\Various Programs\\Dakkacraft Software\\DakkacraftDAL\\DakkacraftDAL.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
       }
     }
   }

@@ -31,6 +31,7 @@
     ".NETCoreApp,Version=v3.1": {
       "DakkacraftAPI/1.0.0": {
         "dependencies": {
+          "DakkacraftDAL": "1.0.0",
           "Microsoft.AspNetCore.Antiforgery": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Cookies": "3.1.0.0",
@@ -319,6 +320,22 @@
         },
         "compile": {
           "DakkacraftAPI.dll": {}
+        }
+      },
+      "DakkacraftDAL/1.0.0": {
+        "runtime": {
+          "DakkacraftDAL.dll": {}
+        },
+        "compile": {
+          "DakkacraftDAL.dll": {}
+        }
+      },
+      "EntityFramework/6.0.0.0": {
+        "runtime": {
+          "EntityFramework.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.400.420.21404"
+          }
         }
       },
       "Microsoft.AspNetCore.Antiforgery/3.1.0.0": {
@@ -2018,6 +2035,16 @@
   "libraries": {
     "DakkacraftAPI/1.0.0": {
       "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DakkacraftDAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EntityFramework/6.0.0.0": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     },

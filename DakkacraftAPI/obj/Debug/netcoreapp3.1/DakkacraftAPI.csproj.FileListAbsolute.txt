@@ -17,3 +17,28 @@ C:\Users\Ivic\Desktop\Various Programs\Dakkacraft Software\Dakkacraft Software\D
 C:\Users\Ivic\Desktop\Various Programs\Dakkacraft Software\Dakkacraft Software\DakkacraftAPI\obj\Debug\netcoreapp3.1\DakkacraftAPI.dll
 C:\Users\Ivic\Desktop\Various Programs\Dakkacraft Software\Dakkacraft Software\DakkacraftAPI\obj\Debug\netcoreapp3.1\DakkacraftAPI.pdb
 C:\Users\Ivic\Desktop\Various Programs\Dakkacraft Software\Dakkacraft Software\DakkacraftAPI\obj\Debug\netcoreapp3.1\DakkacraftAPI.genruntimeconfig.cache
+C:\Users\Ivic\Desktop\Various Programs\Dakkacraft Software\DakkacraftAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Ivic\Desktop\Various Programs\Dakkacraft Software\DakkacraftAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Ivic\Desktop\Various Programs\Dakkacraft Software\DakkacraftAPI\bin\Debug\netcoreapp3.1\DakkacraftAPI.exe
+C:\Users\Ivic\Desktop\Various Programs\Dakkacraft Software\DakkacraftAPI\bin\Debug\netcoreapp3.1\DakkacraftAPI.deps.json
+C:\Users\Ivic\Desktop\Various Programs\Dakkacraft Software\DakkacraftAPI\bin\Debug\netcoreapp3.1\DakkacraftAPI.runtimeconfig.json
+C:\Users\Ivic\Desktop\Various Programs\Dakkacraft Software\DakkacraftAPI\bin\Debug\netcoreapp3.1\DakkacraftAPI.runtimeconfig.dev.json
+C:\Users\Ivic\Desktop\Various Programs\Dakkacraft Software\DakkacraftAPI\bin\Debug\netcoreapp3.1\DakkacraftAPI.dll
+C:\Users\Ivic\Desktop\Various Programs\Dakkacraft Software\DakkacraftAPI\bin\Debug\netcoreapp3.1\DakkacraftAPI.pdb
+C:\Users\Ivic\Desktop\Various Programs\Dakkacraft Software\DakkacraftAPI\bin\Debug\netcoreapp3.1\DakkacraftDAL.dll
+C:\Users\Ivic\Desktop\Various Programs\Dakkacraft Software\DakkacraftAPI\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\Ivic\Desktop\Various Programs\Dakkacraft Software\DakkacraftAPI\bin\Debug\netcoreapp3.1\DakkacraftDAL.pdb
+C:\Users\Ivic\Desktop\Various Programs\Dakkacraft Software\DakkacraftAPI\bin\Debug\netcoreapp3.1\DakkacraftDAL.dll.config
+C:\Users\Ivic\Desktop\Various Programs\Dakkacraft Software\DakkacraftAPI\bin\Debug\netcoreapp3.1\EntityFramework.xml
+C:\Users\Ivic\Desktop\Various Programs\Dakkacraft Software\DakkacraftAPI\obj\Debug\netcoreapp3.1\DakkacraftAPI.csproj.AssemblyReference.cache
+C:\Users\Ivic\Desktop\Various Programs\Dakkacraft Software\DakkacraftAPI\obj\Debug\netcoreapp3.1\DakkacraftAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivic\Desktop\Various Programs\Dakkacraft Software\DakkacraftAPI\obj\Debug\netcoreapp3.1\DakkacraftAPI.AssemblyInfoInputs.cache
+C:\Users\Ivic\Desktop\Various Programs\Dakkacraft Software\DakkacraftAPI\obj\Debug\netcoreapp3.1\DakkacraftAPI.AssemblyInfo.cs
+C:\Users\Ivic\Desktop\Various Programs\Dakkacraft Software\DakkacraftAPI\obj\Debug\netcoreapp3.1\DakkacraftAPI.csproj.CoreCompileInputs.cache
+C:\Users\Ivic\Desktop\Various Programs\Dakkacraft Software\DakkacraftAPI\obj\Debug\netcoreapp3.1\DakkacraftAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ivic\Desktop\Various Programs\Dakkacraft Software\DakkacraftAPI\obj\Debug\netcoreapp3.1\staticwebassets\DakkacraftAPI.StaticWebAssets.Manifest.cache
+C:\Users\Ivic\Desktop\Various Programs\Dakkacraft Software\DakkacraftAPI\obj\Debug\netcoreapp3.1\DakkacraftAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Ivic\Desktop\Various Programs\Dakkacraft Software\DakkacraftAPI\obj\Debug\netcoreapp3.1\DakkacraftAPI.csproj.CopyComplete
+C:\Users\Ivic\Desktop\Various Programs\Dakkacraft Software\DakkacraftAPI\obj\Debug\netcoreapp3.1\DakkacraftAPI.dll
+C:\Users\Ivic\Desktop\Various Programs\Dakkacraft Software\DakkacraftAPI\obj\Debug\netcoreapp3.1\DakkacraftAPI.pdb
+C:\Users\Ivic\Desktop\Various Programs\Dakkacraft Software\DakkacraftAPI\obj\Debug\netcoreapp3.1\DakkacraftAPI.genruntimeconfig.cache
