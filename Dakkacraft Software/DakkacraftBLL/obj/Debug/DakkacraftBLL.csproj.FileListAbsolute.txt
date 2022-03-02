@@ -1,0 +1,6 @@
+C:\Users\Ivic\Desktop\Various Programs\Dakkacraft Software\Dakkacraft Software\DakkacraftBLL\bin\Debug\DakkacraftBLL.dll
+C:\Users\Ivic\Desktop\Various Programs\Dakkacraft Software\Dakkacraft Software\DakkacraftBLL\bin\Debug\DakkacraftBLL.pdb
+C:\Users\Ivic\Desktop\Various Programs\Dakkacraft Software\Dakkacraft Software\DakkacraftBLL\obj\Debug\DakkacraftBLL.csproj.AssemblyReference.cache
+C:\Users\Ivic\Desktop\Various Programs\Dakkacraft Software\Dakkacraft Software\DakkacraftBLL\obj\Debug\DakkacraftBLL.csproj.CoreCompileInputs.cache
+C:\Users\Ivic\Desktop\Various Programs\Dakkacraft Software\Dakkacraft Software\DakkacraftBLL\obj\Debug\DakkacraftBLL.dll
+C:\Users\Ivic\Desktop\Various Programs\Dakkacraft Software\Dakkacraft Software\DakkacraftBLL\obj\Debug\DakkacraftBLL.pdb

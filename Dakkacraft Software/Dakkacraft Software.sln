@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DakkacraftAPI", "DakkacraftAPI\DakkacraftAPI.csproj", "{2A8772F3-5EA7-4A8D-9EC5-D52108725B2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DakkacraftBLL", "DakkacraftBLL\DakkacraftBLL.csproj", "{9E18D058-3CE9-4EC0-BF2D-C63158963092}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DakkacraftDAL", "DakkacraftDAL\DakkacraftDAL.csproj", "{485984AA-146A-4AD7-83F4-F71CF0973101}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A8772F3-5EA7-4A8D-9EC5-D52108725B2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A8772F3-5EA7-4A8D-9EC5-D52108725B2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A8772F3-5EA7-4A8D-9EC5-D52108725B2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A8772F3-5EA7-4A8D-9EC5-D52108725B2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E18D058-3CE9-4EC0-BF2D-C63158963092}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E18D058-3CE9-4EC0-BF2D-C63158963092}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E18D058-3CE9-4EC0-BF2D-C63158963092}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E18D058-3CE9-4EC0-BF2D-C63158963092}.Release|Any CPU.Build.0 = Release|Any CPU
+		{485984AA-146A-4AD7-83F4-F71CF0973101}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{485984AA-146A-4AD7-83F4-F71CF0973101}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{485984AA-146A-4AD7-83F4-F71CF0973101}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{485984AA-146A-4AD7-83F4-F71CF0973101}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6317692F-903A-4AF1-BC68-E45F2909549D}
+	EndGlobalSection
+EndGlobal
