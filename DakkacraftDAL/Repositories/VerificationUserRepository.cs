@@ -8,6 +8,7 @@ using System.Data.Entity;
 
 namespace DakkacraftDAL.Repositories
 {
+    // https://docs.microsoft.com/en-us/aspnet/mvc/overview/older-versions/getting-started-with-ef-5-using-mvc-4/implementing-the-repository-and-unit-of-work-patterns-in-an-asp-net-mvc-application
     class VerificationUserRepository : Repository<VerificationUser>, IVerificationUserRepository
     {
         public VerificationUserRepository(DakkacraftDbContext context) : base(context) { }
@@ -32,7 +33,7 @@ namespace DakkacraftDAL.Repositories
         public IEnumerable<VerificationUser> GetAllVerificationUsers()
         {
             return DakkacraftDbContext.VerificationUsers.ToList();
-            throw new NotImplementedException();
+            //throw new NotImplementedException();
         }
 
         public VerificationUser GetVerificationUser(int id)

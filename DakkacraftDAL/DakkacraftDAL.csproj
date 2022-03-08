@@ -75,6 +75,15 @@
   <ItemGroup>
     <Compile Include="Init.cs" />
     <Compile Include="DakkacraftDbContext.cs" />
+    <Compile Include="Migrations\202203081100341_InitialCreate.cs" />
+    <Compile Include="Migrations\202203081100341_InitialCreate.designer.cs">
+      <DependentUpon>202203081100341_InitialCreate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202203081118063_Initial.cs" />
+    <Compile Include="Migrations\202203081118063_Initial.designer.cs">
+      <DependentUpon>202203081118063_Initial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\VerificationUser.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repositories\IRepository.cs" />
@@ -85,6 +94,14 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\202203081100341_InitialCreate.resx">
+      <DependentUpon>202203081100341_InitialCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202203081118063_Initial.resx">
+      <DependentUpon>202203081118063_Initial.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

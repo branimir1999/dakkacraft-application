@@ -14,7 +14,7 @@ namespace DakkacraftAPI
     {
         public static void Main(string[] args)
         {
-            Init.run();
+            Init.run2();
             CreateHostBuilder(args).Build().Run();
         }
 

@@ -20,3 +20,6 @@ C:\Users\Ivic\Desktop\Various Programs\Dakkacraft Software\DakkacraftDAL\bin\Deb
 C:\Users\Ivic\Desktop\Various Programs\Dakkacraft Software\DakkacraftDAL\bin\Debug\System.Configuration.ConfigurationManager.xml
 C:\Users\Ivic\Desktop\Various Programs\Dakkacraft Software\DakkacraftDAL\bin\Debug\System.Data.SqlClient.dll
 C:\Users\Ivic\Desktop\Various Programs\Dakkacraft Software\DakkacraftDAL\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Ivic\Desktop\Various Programs\Dakkacraft Software\DakkacraftDAL\obj\Debug\DakkacraftDAL.Migrations.InitialCreate.resources
+C:\Users\Ivic\Desktop\Various Programs\Dakkacraft Software\DakkacraftDAL\obj\Debug\DakkacraftDAL.csproj.GenerateResource.cache
+C:\Users\Ivic\Desktop\Various Programs\Dakkacraft Software\DakkacraftDAL\obj\Debug\DakkacraftDAL.Migrations.Initial.resources

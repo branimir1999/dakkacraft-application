@@ -46,6 +46,12 @@ namespace DakkacraftDAL.Repositories
             //throw new NotImplementedException();
         }
 
+        public void SaveChanges()
+        {
+            Context.SaveChanges();
+            //throw new NotImplementedException();
+        }
+
 
         // Is this necessary?
         private bool disposed = false;
