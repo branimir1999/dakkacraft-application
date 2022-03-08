@@ -11,7 +11,7 @@ namespace DakkacraftDAL
 {
     public class Init
     {
-        public static void run2()
+        public static void run()
         {
             DakkacraftDbContext context = new DakkacraftDbContext();
             VerificationUserRepository repo = new VerificationUserRepository(context);
@@ -22,10 +22,7 @@ namespace DakkacraftDAL
                 populate(repo);
                 users = repo.GetAllVerificationUsers();
             }
-            Console.WriteLine("Pisem preko liste:\n");
-            Console.WriteLine(users.ToList().ToString());
-            Console.WriteLine("Pisem preko kolekcije:\n");
-            Console.WriteLine(users.ToString());
+            // *TODO*: Napraviti koherentan ispis
         }
 
         private static void populate(VerificationUserRepository repo)
@@ -62,27 +59,6 @@ namespace DakkacraftDAL
             repo.AddEntity(verificationUser2);
             repo.AddEntity(verificationUser3);
             repo.Save();
-        }
-        public static void run() {
-            // remove Init.run() from DakkacraftAPI.Program.cs
-            using (var db = new DakkacraftDbContext())
-            {
-                
-
-                // Display all Blogs from the database
-                var query = from b in db.VerificationUsers
-                            orderby b.Username
-                            select b;
-
-                Console.WriteLine("All blogs in the database:");
-                foreach (var item in query)
-                {
-                    Console.WriteLine(item.Username);
-                }
-
-                Console.WriteLine("Press any key to exit...");
-                Console.ReadKey();
-            }
         }
     }
 }
