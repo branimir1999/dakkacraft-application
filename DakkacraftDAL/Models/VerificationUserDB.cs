@@ -5,24 +5,26 @@ using System.Text;
 using System.Threading.Tasks;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using DakkacraftDAL.Models.Generic;
 
 namespace DakkacraftDAL.Models
 {
     // https://docs.microsoft.com/en-us/ef/ef6/modeling/code-first/data-annotations
-    public class VerificationUser
+    [Table("VerificationUsers")]
+    public class VerificationUserDB : IIdentifiable
     {
         // Auto-generate primary key
         [Key, DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        public int Id { get; set; }
+        public virtual Guid Id { get; set; }
         [Required]
-        public int Uuid { get; set; }
+        public virtual int Uuid { get; set; }
         [Required]
-        public string Username { get; set; }
+        public virtual string Username { get; set; }
         [Required, StringLength(6)]
-        public string VerificationCode { get; set; }
+        public virtual string VerificationCode { get; set; }
         [Required]
-        public bool Verified { get; set; }
+        public virtual bool Verified { get; set; }
         [Required]
-        public bool Update { get; set; }
+        public virtual bool Update { get; set; }
     }
 }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DakkacraftBLL
 {
-    public class Class1
+    public class DakkacraftBLLFunctions
     {
     }
 }

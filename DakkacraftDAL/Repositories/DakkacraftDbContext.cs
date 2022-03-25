@@ -12,6 +12,6 @@ namespace DakkacraftDAL
     // DbContext allows for an SQL session
     public class DakkacraftDbContext : DbContext
     {
-        public DbSet<VerificationUser> VerificationUsers { get; set; }
+        public DbSet<VerificationUserDB> VerificationUsers { get; set; }
     }
 }

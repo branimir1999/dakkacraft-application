@@ -9,7 +9,7 @@ using DakkacraftDAL.Repositories;
 
 namespace DakkacraftDAL
 {
-    public class Init
+    public class DakkacraftDALFunctions
     {
         public static void run()
         {
@@ -27,25 +27,23 @@ namespace DakkacraftDAL
 
         private static void populate(VerificationUserRepository repo)
         {
-            var verificationUser1 = new VerificationUser
+            var verificationUser1 = new VerificationUserDB
             {
-                Id = 0,
                 Uuid = 5,
                 Username = "Branimir X",
                 VerificationCode = "ABCDEF",
                 Verified = false,
                 Update = false
             };
-            var verificationUser2 = new VerificationUser
+            var verificationUser2 = new VerificationUserDB
             {
-                Id = 1,
                 Uuid = 2,
                 Username = "Branimir XI",
                 VerificationCode = "FEDCBA",
                 Verified = false,
                 Update = false
             };
-            var verificationUser3 = new VerificationUser
+            var verificationUser3 = new VerificationUserDB
             {
                 Uuid = 7,
                 Username = "Branimir XII",

@@ -9,10 +9,10 @@ namespace DakkacraftDAL.Repositories
 {
     public interface IVerificationUserRepository
     {
-        void Create(VerificationUser verificationUser);
-        void Update(VerificationUser verificationUser);
+        void Create(VerificationUserDB verificationUser);
+        void Update(VerificationUserDB verificationUser);
         void Delete(int id);
-        IEnumerable<VerificationUser> GetAllVerificationUsers();
-        VerificationUser GetVerificationUser(int id);
+        IEnumerable<VerificationUserDB> GetAllVerificationUsers();
+        VerificationUserDB GetVerificationUser(int id);
     }
 }
